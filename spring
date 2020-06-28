@@ -1,0 +1,8 @@
+chnouwa spring ?
+spring houwa des fichiers ".class". Les fichiers hethom malmoumin f des fichiers "jar". Les fichiers "jar" téléchargihom b " maven" (walla gradle walla 7aja tchabhelhom)
+chnouwa maven ?
+logiciel yteléchargou bih hal "jar"s.
+Kifch y5dm ?
+od5ol "https://maven.apache.org/download.cgi" w emchi l files w mba3d téléchargi fel partie "Files" el "Link" mt3 "Source zip archive".
+mb3d 7l power shell w ekteb 
+"mvn archetype:generate -DgroupId=ToolsQA -DartifactId=DemoMavenProject -DarchetypeArtifactId=maven-archetype-quickstart -DinteractiveMode=false"
